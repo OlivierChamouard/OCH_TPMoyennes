@@ -1,5 +1,4 @@
-﻿
-namespace HNI_TPmoyennes
+﻿namespace HNI_TPmoyennes
 {
     // Classes fournies par HNI Institut
     class Note
