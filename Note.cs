@@ -1,7 +1,7 @@
 ﻿
 namespace HNI_TPmoyennes
 {
-    // Classes fournies par HNI Institut §
+    // Classes fournies par HNI Institut
     class Note
     {
         public int matiere { get; private set; }
