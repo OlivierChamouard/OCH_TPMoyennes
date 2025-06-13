@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\olivi\\Source\\Repos\\HNI-TPmoyennes\\HNI-TPmoyennes.csproj": {}
+    "C:\\Users\\olivi\\Source\\Repos\\OCH_TPMoyennes\\HNI-TPmoyennes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\olivi\\Source\\Repos\\HNI-TPmoyennes\\HNI-TPmoyennes.csproj": {
+    "C:\\Users\\olivi\\Source\\Repos\\OCH_TPMoyennes\\HNI-TPmoyennes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olivi\\Source\\Repos\\HNI-TPmoyennes\\HNI-TPmoyennes.csproj",
+        "projectUniqueName": "C:\\Users\\olivi\\Source\\Repos\\OCH_TPMoyennes\\HNI-TPmoyennes.csproj",
         "projectName": "HNI-TPmoyennes",
-        "projectPath": "C:\\Users\\olivi\\Source\\Repos\\HNI-TPmoyennes\\HNI-TPmoyennes.csproj",
+        "projectPath": "C:\\Users\\olivi\\Source\\Repos\\OCH_TPMoyennes\\HNI-TPmoyennes.csproj",
         "packagesPath": "C:\\Users\\olivi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olivi\\Source\\Repos\\HNI-TPmoyennes\\obj\\",
+        "outputPath": "C:\\Users\\olivi\\Source\\Repos\\OCH_TPMoyennes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
